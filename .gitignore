@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+coverage/
+.DS_Store
+.vscode/
+.idea/
+public/vendor/
+src/app/fonts/
+test-results/

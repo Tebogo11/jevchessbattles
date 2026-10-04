@@ -59,7 +59,7 @@ The live path has a 25-second timeout covering both the request and response bod
 
 ## Observed pattern
 
-In practice, both AIs tend to prioritise immediate tactical pressure, often pushing directly toward the king and sometimes sacrificing higher-value pieces when the threat is strong. Jev appears to evaluate each move with broader strategic awareness rather than treating the king as the only objective, which makes its choices feel more connected to the wider position rather than a simple attack-first reflex.
+In practice, both AIs tend to prioritise immediate tactical pressure, often pushing directly toward the king and sometimes sacrificing higher-value pieces when the threat is strong. Jev appears to follow a simpler attack-first reflex: it looks for the fastest route to pressure the king and often prefers direct aggression over a wider strategic plan.
 
 ## Checks
 
